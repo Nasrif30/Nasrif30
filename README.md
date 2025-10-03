@@ -37,7 +37,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Nasrif30&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasrif30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🎉 Celebration
+## 
 ![Kali Boot](https://www.kali.org/blog/kali-linux-2019-4-release/images/kali-preview-boot.gif)
 
 ### ✍️ Random Dev Quote
