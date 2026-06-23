@@ -1,4 +1,25 @@
-#  Tech Stack:
+# Hi, I'm Alnasrif Haliddin (Nasrif30)
+
+<p align="center">
+  <img src="https://tenor.com/d7agijXXmJk.gif" alt="Cybersecurity Animation" width="600">
+</p>
+
+<p align="center">
+  <b>BS Information Technology Student | Cybersecurity Enthusiast | CTF Player | Full-Stack Developer</b>
+</p>
+
+---
+
+## CTF Writeups & Research Archive
+
+**THE PWNED ARCHIVE**  
+https://nasrif30.github.io/THE-PWNED-ARCHIVE/#archive
+
+A collection of CTF writeups, cybersecurity notes, challenge solutions, penetration testing methodologies, and learning resources gathered throughout my cybersecurity journey.
+
+---
+
+# Tech Stack:
 
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +38,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
 
-#  GitHub Stats:
+---
+
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Nasrif30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -27,15 +50,11 @@
 
 ---
 
-##  Kali Linux
-
-![Kali Boot](https://www.kali.org/blog/kali-linux-2019-4-release/images/kali-preview-boot.gif)
-
-###  Random Dev Quote
+### Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###  Top Contributed Repo
+### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Nasrif30&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
