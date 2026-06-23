@@ -1,7 +1,7 @@
 # Hi, I'm Nas
 
 <p align="center">
-  <img src="https://tenor.com/d7agijXXmJk.gif" alt="Cybersecurity Animation" width="600">
+  <img src="https://i.redd.it/vcug4dycze4e1.gif">
 </p>
 
 ---
